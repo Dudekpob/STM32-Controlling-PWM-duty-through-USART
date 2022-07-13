@@ -1,1 +1,1 @@
-# STM32-Controlling-PWM-duty-through-USART
+# STM32-F3 Discovery - Controlling-PWM-duty-through-USART
